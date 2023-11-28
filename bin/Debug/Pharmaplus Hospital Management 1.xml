@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pharmaplus Hospital Management 1
+</name>
+</assembly>
+<members>
+<member name="T:Pharmaplus_Hospital_Management_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Pharmaplus_Hospital_Management_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Pharmaplus_Hospital_Management_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Pharmaplus_Hospital_Management_1.My.Resources.Resources.Hospital_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pharmaplus_Hospital_Management_1.My.Resources.Resources.Hospitalll">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.APPOINTMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.BILLINGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.DISCHARGEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.DOCTORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.MEDICINEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.PATIENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.APPOINTMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.BILLINGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.DISCHARGERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.DOCTORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.MEDICINERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.PATIENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.APPOINTMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.BILLINGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.DISCHARGERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.DOCTORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.MEDICINERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet.PATIENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.APPOINTMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.BILLINGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.DISCHARGETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.DOCTORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.MEDICINETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.PATIENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.UpdateAll(Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Pharmaplus_Hospital_Management_1.Pharmaplus_Hospital_Database_System1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

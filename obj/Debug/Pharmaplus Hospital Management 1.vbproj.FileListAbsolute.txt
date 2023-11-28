@@ -1,0 +1,42 @@
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Database System1.accdb
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.exe.config
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.exe
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.pdb
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.xml
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.AssemblyReference.cache
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.SuggestedBindingRedirects.cache
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form1.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form2.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form3.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form4.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form5.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form6.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form7.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form8.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Resources.resources
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.GenerateResource.cache
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.CoreCompileInputs.cache
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.exe
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.xml
+E:\Pharmaplus Hospital Management\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.pdb
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Database System1.accdb
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.exe.config
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.exe
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.pdb
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\bin\Debug\Pharmaplus Hospital Management 1.xml
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.AssemblyReference.cache
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.SuggestedBindingRedirects.cache
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form1.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form2.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form3.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form4.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form5.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form6.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form7.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Form8.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus_Hospital_Management_1.Resources.resources
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.GenerateResource.cache
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.exe
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.xml
+E:\Visual Basic\Hospital Project\Pharmaplus Hospital Management 1\obj\Debug\Pharmaplus Hospital Management 1.pdb
